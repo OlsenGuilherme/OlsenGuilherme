@@ -101,10 +101,10 @@ const awesoming = {
 
 <!-- ── Routexo - Sistema de Logistica ── -->
 <a href="https://github.com/OlsenGuilherme">
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
 </a>
 
 <br/><br/>
