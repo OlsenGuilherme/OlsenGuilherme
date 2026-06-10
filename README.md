@@ -100,22 +100,16 @@ const awesoming = {
 <br/>
 
 <!-- ── Routexo - Sistema de Logistica ── -->
-<a href="[https://github.com/OlsenGuilherme/Routexo](https://roteirizacao.vercel.app/login)](https://github.com/OlsenGuilherme/Routexo)">
-  <img src="https://img.shields.io/badge/Routexo--0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="Routexo"/>
-  <img src="https://img.shields.io/github/stars/OlsenGuilherme/Routexo?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/OlsenGuilherme/Routexo?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/OlsenGuilherme/Routexo?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+<a href="https://github.com/OlsenGuilherme">
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
+  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo">" alt="Routexo"/>
 </a>
 
 <br/><br/>
 
 <!-- ── x ── -->
-<a href="https://github.com/OlsenGuilherme">
-  <img src="https://img.shields.io/badge/Bot--de--Vendas-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="Bot-de-Vendas"/>
-  <img src="https://img.shields.io/github/stars/OlsenGuilherme/Bot-de-Vendas?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/OlsenGuilherme/Bot-de-Vendas?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/OlsenGuilherme/Bot-de-Vendas?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
-</a>
 
 <br/><br/>
 
