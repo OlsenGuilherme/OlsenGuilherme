@@ -100,12 +100,7 @@ const awesoming = {
 <br/>
 
 <!-- ── Routexo - Sistema de Logistica ── -->
-<a href="https://github.com/OlsenGuilherme">
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
-  <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Routexo" alt="Routexo"/>](https://img.shields.io/badge/Routexo)
-</a>
+https://routexo.vercel.app/login
 
 <br/><br/>
 
