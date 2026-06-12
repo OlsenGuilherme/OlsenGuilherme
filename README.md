@@ -109,10 +109,6 @@ const awesoming = {
 
 <br/><br/>
 
-<!-- ── x ── -->
-
-<br/><br/>
-
 > 🗂️ **Ver todos os repositórios** → [github.com/OlsenGuilherme](https://github.com/OlsenGuilherme?tab=repositories)
 
 </div>
