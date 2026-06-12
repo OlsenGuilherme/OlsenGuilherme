@@ -100,7 +100,12 @@ const awesoming = {
 <br/>
 
 <!-- ── Routexo - Sistema de Logistica ── -->
-https://routexo.vercel.app/login
+<a href="https://routexo.vercel.app/login">
+  <img src="https://img.shields.io/badge/Routexo-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=0d1117" alt="Routexo"/>
+  <img src="https://img.shields.io/badge/TIPO-Logística-f59e0b?style=for-the-badge&labelColor=0d1117" alt="tipo"/>
+  <img src="https://img.shields.io/badge/STATUS-Online-25D366?style=for-the-badge&labelColor=0d1117" alt="status"/>
+  <img src="https://img.shields.io/badge/STACK-Next.js-a78bfa?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="stack"/>
+</a>
 
 <br/><br/>
 
