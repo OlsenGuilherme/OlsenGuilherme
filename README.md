@@ -113,26 +113,6 @@ const awesoming = {
 
 <br/><br/>
 
-<!-- ── x ── -->
-<a href="https://github.com/OlsenGuilherme">
-  <img src="https://img.shields.io/badge/MushMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="MushMC-Status"/>
-  <img src="https://img.shields.io/github/stars/OlsenGuilherme/MushMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/OlsenGuilherme/MushMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/OlsenGuilherme/MushMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
-</a>
-
-<br/><br/>
-
-<!-- ── x ── -->
-<a href="https://github.com/OlsenGuilherme">
-  <img src="https://img.shields.io/badge/FlameMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="FlameMC-Status"/>
-  <img src="https://img.shields.io/github/stars/OlsenGuilherme/FlameMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/OlsenGuilherme/FlameMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/OlsenGuilherme/FlameMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
-</a>
-
-<br/><br/>
-
 > 🗂️ **Ver todos os repositórios** → [github.com/OlsenGuilherme](https://github.com/OlsenGuilherme?tab=repositories)
 
 </div>
